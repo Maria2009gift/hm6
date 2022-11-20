@@ -1,0 +1,9 @@
+a[href^="https"] {color: red;}
+ul~p{font-size: 24px;}
+
+
+p[id='greycol']{color: gray;}
+p[class='yellow']{color: yellow;}
+div[class="text-box"]>h3:nth-child(1) {color: pink;}
+div[class="text-box"]>div>p{color: red;}
+div[class="text-box"]>p:nth-child(7) {color: green;}
